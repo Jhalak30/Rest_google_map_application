@@ -6,4 +6,6 @@ MERN application for showing restaurants on the google map
 ==> To run the project locally 
 1. clone the repositoy
 2. npm install on both the folders i.e client and server
-3. add .env file in server and add 
+3. add .env file in server and add PORT, MONGODB_USERNAME, MONGODB_PASSWORD, MONGODB_DATABSE name.
+4. Google Maps API Key: Create a new API key from the Google developer console, making sure that Maps JavaScript API has been enabled. Copy that key into your .env.local file creating an ENV var with the name REACT_APP_GOOGLE_KEY.
+5. run npm start on both client as well as server.
