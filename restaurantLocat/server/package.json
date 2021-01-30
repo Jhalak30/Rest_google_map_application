@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "expree": "0.0.7",
+    "mongoose": "^5.11.14",
+    "node-geocoder": "^3.27.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
