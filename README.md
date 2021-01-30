@@ -4,7 +4,7 @@ MERN application for showing restaurants on the google map
 ==>There are 2 folders in this application under restaurantLocat folder
 
   1. client (includes all the UI part)
-  2. server (includes all the server part)
+  2. server (includes all the Back-end part)
   
 ==> To run the project locally 
 
